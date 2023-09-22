@@ -2,7 +2,4 @@
 ## Создание репозитория
 
 `git init`
-"git init"
-``git init``
->jj>
-`git init`
+<code> git init </code>
